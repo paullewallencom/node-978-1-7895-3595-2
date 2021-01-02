@@ -1,0 +1,9 @@
+At 6:53 I put
+
+{{formatDate data 'MMMM do YYYY'}}
+
+this should be DATE not DATA...
+
+{{formatDate date 'MMMM do YYYY'}}
+
+I am not sure why it still worked but make sure you put "date"
